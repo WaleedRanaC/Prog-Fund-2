@@ -1,0 +1,199 @@
+_____________________________
+Employee 1
+ID: 5
+Name: Christine Kim       
+Hourly Pay: $30
+Number of Dependents: 2
+Type: Management
+Hours Worked: 40
+****************************
+Gross Pay: $1200
+Tax Owed: $180
+Insurance Policy: $60
+Net Pay: $960
+_____________________________
+_____________________________
+Employee 2
+ID: 15
+Name: Ray Allrich         
+Hourly Pay: $10.25
+Number of Dependents: 0
+Type: Union
+Hours Worked: 42
+****************************
+Gross Pay: $645.75
+Tax Owed: $96.8625
+Insurance Policy: $0
+Net Pay: $548.888
+_____________________________
+_____________________________
+Employee 3
+ID: 16
+Name: Adrian Bailey       
+Hourly Pay: $12.5
+Number of Dependents: 0
+Type: Union
+Hours Worked: 40
+****************************
+Gross Pay: $500
+Tax Owed: $75
+Insurance Policy: $0
+Net Pay: $425
+_____________________________
+_____________________________
+Employee 4
+ID: 17
+Name: Juan Gonzales       
+Hourly Pay: $30
+Number of Dependents: 1
+Type: Management
+Hours Worked: 20
+****************************
+Gross Pay: $600
+Tax Owed: $90
+Insurance Policy: $30
+Net Pay: $480
+_____________________________
+_____________________________
+Employee 5
+ID: 18
+Name: Morris Kramer       
+Hourly Pay: $8.95
+Number of Dependents: 0
+Type: Union
+Hours Worked: 40
+****************************
+Gross Pay: $358
+Tax Owed: $53.7
+Insurance Policy: $0
+Net Pay: $304.3
+_____________________________
+_____________________________
+Employee 6
+ID: 22
+Name: Cindy Burke         
+Hourly Pay: $15
+Number of Dependents: 1
+Type: Union
+Hours Worked: 40
+****************************
+Gross Pay: $600
+Tax Owed: $90
+Insurance Policy: $30
+Net Pay: $480
+_____________________________
+_____________________________
+Employee 7
+ID: 24
+Name: Esther Bianco       
+Hourly Pay: $10.25
+Number of Dependents: 0
+Type: Union
+Hours Worked: 15
+****************************
+Gross Pay: $153.75
+Tax Owed: $23.0625
+Insurance Policy: $0
+Net Pay: $130.688
+_____________________________
+_____________________________
+Employee 8
+ID: 25
+Name: Jim Moore           
+Hourly Pay: $27.5
+Number of Dependents: 3
+Type: Management
+Hours Worked: 45
+****************************
+Gross Pay: $1237.5
+Tax Owed: $185.625
+Insurance Policy: $90
+Net Pay: $961.875
+_____________________________
+_____________________________
+Employee 9
+ID: 32
+Name: Paula Cameron       
+Hourly Pay: $14.5
+Number of Dependents: 0
+Type: Union
+Hours Worked: 25
+****************************
+Gross Pay: $362.5
+Tax Owed: $54.375
+Insurance Policy: $0
+Net Pay: $308.125
+_____________________________
+_____________________________
+Employee 11
+ID: 37
+Name: Nina Kamran         
+Hourly Pay: $30
+Number of Dependents: 1
+Type: Management
+Hours Worked: 31
+****************************
+Gross Pay: $930
+Tax Owed: $139.5
+Insurance Policy: $30
+Net Pay: $760.5
+_____________________________
+_____________________________
+Employee 12
+ID: 38
+Name: Julie Brown         
+Hourly Pay: $35
+Number of Dependents: 0
+Type: Management
+Hours Worked: 35
+****************************
+Gross Pay: $1225
+Tax Owed: $183.75
+Insurance Policy: $0
+Net Pay: $1041.25
+_____________________________
+_____________________________
+Employee 13
+ID: 40
+Name: Imelda Buentello    
+Hourly Pay: $14.5
+Number of Dependents: 0
+Type: Union
+Hours Worked: 47
+****************************
+Gross Pay: $1022.25
+Tax Owed: $153.338
+Insurance Policy: $0
+Net Pay: $868.913
+_____________________________
+_____________________________
+Employee 14
+ID: 42
+Name: J. P. Morgan        
+Hourly Pay: $12.5
+Number of Dependents: 0
+Type: Union
+Hours Worked: 39
+****************************
+Gross Pay: $487.5
+Tax Owed: $73.125
+Insurance Policy: $0
+Net Pay: $414.375
+_____________________________
+_____________________________
+Employee 15
+ID: 43
+Name: Maria Diaz          
+Hourly Pay: $15
+Number of Dependents: 0
+Type: Union
+Hours Worked: 40
+****************************
+Gross Pay: $600
+Tax Owed: $90
+Insurance Policy: $0
+Net Pay: $510
+_____________________________
+....................................
+Total Gross Pay: $9922.25
+Total Net Pay: $8193.91

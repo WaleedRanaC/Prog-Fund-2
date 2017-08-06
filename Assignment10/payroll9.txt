@@ -1,0 +1,73 @@
+_____________________________
+Employee 1
+ID: 5
+Name: Christine Kim       
+Hourly Pay: $30
+Number of Dependents: 3
+Type: Management
+Hours Worked: 40
+****************************
+Gross Pay: $1200
+Tax Owed: $180
+Insurance Policy: $90
+Net Pay: $930
+_____________________________
+_____________________________
+Employee 2
+ID: 15
+Name: Ray Allrich         
+Hourly Pay: $10.25
+Number of Dependents: 0
+Type: Union
+Hours Worked: 42
+****************************
+Gross Pay: $645.75
+Tax Owed: $96.8625
+Insurance Policy: $0
+Net Pay: $548.888
+_____________________________
+_____________________________
+Employee 3
+ID: 16
+Name: Adrian Bailey       
+Hourly Pay: $12.5
+Number of Dependents: 0
+Type: Union
+Hours Worked: 40
+****************************
+Gross Pay: $500
+Tax Owed: $75
+Insurance Policy: $0
+Net Pay: $425
+_____________________________
+_____________________________
+Employee 4
+ID: 17
+Name: Juan Gonzales       
+Hourly Pay: $30
+Number of Dependents: 1
+Type: Management
+Hours Worked: 41
+****************************
+Gross Pay: $1230
+Tax Owed: $184.5
+Insurance Policy: $30
+Net Pay: $1015.5
+_____________________________
+_____________________________
+Employee 6
+ID: 22
+Name: Cindy Burke         
+Hourly Pay: $15
+Number of Dependents: 1
+Type: Union
+Hours Worked: 20
+****************************
+Gross Pay: $300
+Tax Owed: $45
+Insurance Policy: $30
+Net Pay: $225
+_____________________________
+....................................
+Total Gross Pay: $3875.75
+Total Net Pay: $3144.39
